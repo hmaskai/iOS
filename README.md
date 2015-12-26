@@ -1,6 +1,6 @@
-# Pre-work - Tipper
+# Pre-work - tips
 
-Tipper is a tip calculator application for iOS.
+tips is a tip calculator application for iOS.
 
 Submitted by: Harshil Maskai
 
