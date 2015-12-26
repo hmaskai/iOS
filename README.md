@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Challenges faced:
+
 1) The (option+mouse drag) accidentally cloned tip label fields in the same place. 
 The outlet was set only for one of them.
 Setting the default value of the tip label to $0.00 did not reflect as it was overlapping with a label containing $100.00.
