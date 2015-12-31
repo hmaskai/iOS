@@ -35,7 +35,9 @@ Challenges faced:
 1) The (option+mouse drag) accidentally cloned tip label fields in the same place. 
 The outlet was set only for one of them.
 Setting the default value of the tip label to $0.00 did not reflect as it was overlapping with a label containing $100.00.
+
 2) A white margin to the right and the bottom appeared as I was using the iphone 6 simulator. The issue got resolved after using the iphone 5/5s simulator(as suggested by one of codepath member)
+
 3) UI animations
 
 ## License
